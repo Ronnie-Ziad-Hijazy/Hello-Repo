@@ -10,7 +10,7 @@ Version Control
 7- git push -u origin main
 8- git push -u origin main --force
 
-
+For github ****
 echo "# Hello-Repo" >> README.md
 git init
 git add README.md
